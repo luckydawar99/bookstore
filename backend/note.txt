@@ -1,0 +1,8 @@
+/////mongoose 
+Databasename: ashokit_nodejs
+collection :employees
+username:lucky
+password:llucky@4269 //%404269
+
+//yarn add  express @types/express mongoose @types/mongoose body-parser @types/body-parser cors @types/cors --save
+url:mongodb+srv://lucky:llucky%404269@cluster0.rvkqn7t.mongodb.net/ashokit_nodejs?retryWrites=true&w=majority&appName=Cluster0 
